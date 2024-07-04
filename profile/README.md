@@ -6,5 +6,5 @@
 ### 팀원 👩‍💻
 | name | 김고성 | 권수연 | 정유진 | 조승현 |
 | --- | --- | --- | --- | --- |
-| role | Team Leader,<br/>Frontend | Frontend | Backend | Backend |
+| role | Frontend | Frontend | Backend | Backend |
 | github/email | [kimgosung](https://github.com/kimgosung) | [yeoniii20](https://github.com/yeoniii20) | [hershyYJ](https://github.com/hershyYJ) | [whitem4rk](http://github.com/whitem4rk) |
