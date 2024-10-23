@@ -1,14 +1,15 @@
-# 도커를 쉽고 빠르게, 고래밥🐳과 함께! 
+# 도커를 쉽고 빠르게, 고래밥과 함께! 
+
+<img width="2028" alt="Thumbnail" src="https://github.com/user-attachments/assets/946e8585-5850-4dfd-acea-7f2201953b5a">
 
 ## 프로젝트 소개 💻
-> 이 프로젝트는 Docker를 활용한 서버 관리의 효율성과 직관성을 극대화하는 것을 목표로합니다. 특히, Docker에 대한 경험이 적은 초보 개발자들이 겪는 여러 문제점을 해결하고자 하였습니다. 복잡한 CLI를 사용해 여러개의 컨테이너를 관리하거나 네트워크 설정을 처리하는 과정에서 발생하는 어려움들을 완화하고, 간편하면서도 강력한 GUI를 제공하여 Docker의 진입 장벽을 낮추고자 했습니다. 이를 통해 개발자들은 복잡한 명령어 대신 직관적인 UI로 컨테이너를 관리할 수 있으며, Docker 환경을 보다 쉽게 설정하고 운영할 수 있게 됩니다.
-
-## 기술 스택 📚
+**고래밥**은 Docker를 활용한 서버 관리의 효율성과 직관성을 극대화하는 것을 목표로 하는 오픈소스 프로젝트입니다. Docker의 복잡한 CLI 환경에서 벗어나 직관적인 GUI를 통해 초보 개발자들이 쉽게 컨테이너를 관리하고 네트워크 설정을 할 수 있도록 돕습니다. 이 프로젝트는 Docker에 대한 경험이 적은 개발자들이 겪는 어려움을 해결하기 위해 만들어졌습니다. 복잡한 명령어 대신 **사용자 친화적인 인터페이스**로 컨테이너와 네트워크를 관리할 수 있으며, Docker 환경 설정이 훨씬 간편해집니다.
 
 ## 주요 기능 🛠️
 
 ## 팀원 👩‍💻
+
 | name | 김고성 | 권수연 | 정유진 | 조승현 |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | role | Frontend | Frontend | Backend | Backend |
-| github | [kimgosung](https://github.com/kimgosung) | [yeoniii20](https://github.com/yeoniii20) | [hershyYJ](https://github.com/hershyYJ) | [whitem4rk](http://github.com/whitem4rk) |
+| github | <div align="center"><img src="https://github.com/kimgosung.png" width="80"><br>[kimgosung](https://github.com/kimgosung)</div> | <div align="center"><img src="https://github.com/yeoniii20.png" width="80"><br>[yeoniii20](https://github.com/yeoniii20)</div> | <div align="center"><img src="https://github.com/hershyYJ.png" width="80"><br>[hershyYJ](https://github.com/hershyYJ)</div> | <div align="center"><img src="https://github.com/whitem4rk.png" width="80"><br>[whitem4rk](https://github.com/whitem4rk)</div> |
